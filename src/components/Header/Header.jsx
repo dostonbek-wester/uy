@@ -8,8 +8,8 @@ import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
 import SearchIcon from '@mui/icons-material/Search';
 import Frame from './../../assets/Frame.png'
 import FmdGoodOutlinedIcon from '@mui/icons-material/FmdGoodOutlined';
-import Kvart1 from './../../Images/Kvart1.png'
-import Kvart2 from './../../Images/Kvart2.png'
+import Kvart1 from './../../assets/images/Kvart1.png'
+import Kvart2 from './../../assets/images/Kvart2.png'
 
 function Header() {
     return (

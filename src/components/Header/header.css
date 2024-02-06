@@ -6,7 +6,7 @@ button {
 .head {
     background-color: #EFF8FF;
     background-size: 100%;
-    background-image: url('./src/Images/House.png');
+    background-image: url(./../../assets/images/House.png);
     padding: 30px 100px;
     height:auto;
     display: flex;
