@@ -1,0 +1,267 @@
+.footer-container{
+    margin-top: 100px;
+    
+}
+
+.customers{
+    text-align: center;
+    font-size: 43px;
+}
+
+.it-isa{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 15px;
+    color: #8A8785;
+}
+
+.it-issa{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+    color: #8A8785;
+}
+
+.footer-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.tepa{
+    width: 1090px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.quruvchi-png{
+    width: 320px;
+    margin-top: 60px;
+    position: absolute;
+    border-radius: 15px;
+    z-index: 2;
+}
+
+.lorem-div{
+    width: 940px;
+    height: 320px;
+    background-color: #F2F6F9;
+    margin-top: 120px;
+    margin-left: 150px;
+    position: relative;
+    z-index: 1;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.lorem{
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 30px;
+    font-size: 15px;
+}
+.long{
+    text-align: center;
+    margin-left: 145px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.at-its{
+    margin-left: 180px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.star-img{
+    margin-left: 180px;
+}
+.kety{
+    margin-left: 170px;
+}
+.united{
+    margin-left: 170px;
+    margin-top: 10px;
+    color: #8A8785;
+}
+.people-imgs-texts{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
+.people-imgs{
+    display: flex;
+    gap: 10px;
+    margin-right: 10px;
+}
+
+.people-img{
+    width: 50px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.footer-pas{
+    display: flex;
+    justify-content: center;
+}
+
+.pas{
+    width: 1090px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.andijon-img{
+    width: 70px;
+    margin-top: -20px;
+}
+
+.pas-lorem{
+    margin-top: 25px;
+    color: #8A8785;
+}
+.pas-elit{
+    margin-top: 10px;
+    color: #8A8785;
+}
+.pas-felis{
+    margin-top: 10px;
+    color: #8A8785;
+}
+
+.pas-service p{
+    margin-top: 20px;
+}
+.pas-about p{
+    margin-top: 20px;
+}
+.pas-location p{
+    margin-top: 20px;
+}
+
+.service{
+    margin-top: 10px;
+}
+.about{
+    margin-top: 10px;
+}
+.location{
+    margin-top: 10px;
+}
+
+.icons{
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+hr{
+    width: 1090px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.hr-pas{
+    width: 1090;
+    display: flex;
+    justify-content: center;
+}
+
+.eng-pas{
+    width: 1090px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.eng-pas span{
+    font-size: 13px;
+}
+
+.terms{
+    display: flex;
+    gap: 20px;
+}
+
+/* @media (max-width:1107px){
+    .quruvchi-png{
+        width: 230px;
+        height: 240px;
+    }
+    .lorem-div{
+        width: 590px;
+        height: 280px;
+    }
+    .lorem-div .lorem, .long{
+        margin-left: 60px;
+        font-size: 13px;
+    }
+    .star-img{
+        margin-left: 65px;
+        margin-top: -10px;
+        font-size: 13px;
+    }
+    .at-its{
+        margin-left: 65px;
+        font-size: 13px;
+    }
+
+    .kety{
+        margin-left: 65px;
+        font-size: 18px;
+    }
+    .united{
+        margin-left: 65px;
+        font-size: 13px;
+    }
+    .people-img{
+        width: 45px;
+    }
+
+    .pas{
+        width: 740px;
+    }
+    .pas-lorem{
+        font-size: 14px;
+    }
+    .pas-elit{
+        font-size: 14px;
+    }
+    .pas-felis{
+        font-size: 14px;
+    }
+    .flora-img{
+        width: 60px;
+        margin-top: 5px;
+    }
+    .pas-service h3{
+        font-size: 17px;
+    }
+    .pas-about h3{
+        font-size: 17px;
+    }
+    .pas-location h3{
+        font-size: 17px;
+    }
+    .pas-service p{
+        font-size: 12px;
+    }
+    .pas-about p{
+        font-size: 12px;
+    }
+    .pas-location p{
+        font-size: 12px;
+    }
+    .icons img{
+        width: 35px;
+    }
+    .eng-pas{
+        width: 740px;
+    }
+    .eng-pas p{
+        font-size: 13px;
+    }
+    .eng-pas span{
+        font-size: 11px;
+    }
+} */

@@ -1,0 +1,84 @@
+.center-container{
+    margin-top: 10%;
+}
+.our{
+    text-align: center;
+    font-size: 43px;
+}
+
+.it-is{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 15px;
+    color: #8A8785;
+}
+
+.it-iss{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+    color: #8A8785;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.card{
+    width: 330px;
+    height: 510px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    padding: 12px;
+    position: relative;
+}
+
+.card .Home{
+    width: 100%;
+}
+
+.dollar{
+    color: #025595;
+    margin-top: 10px;
+}
+
+.luxury{
+    margin-top: 15px;
+}
+
+.california{
+    margin-top: 10px;
+}
+
+.card .frames{
+    width: 140px;
+    margin-top: 15px;
+}
+
+.icon-text{
+    display: flex;
+    align-items: center;
+    margin-left: -2px;
+    margin-top: 15px;
+}
+
+.icon-text p{
+    font-size: 15px;
+}
+
+.rectangle{
+    z-index: 1;
+    position: absolute;
+    top: 26px;
+    right: 27px;
+}
+.icon{
+    z-index: 10;
+    position: absolute;
+    top: 30px;
+    right: 31px;
+}
